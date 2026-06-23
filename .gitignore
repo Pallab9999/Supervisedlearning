@@ -1,0 +1,16 @@
+# Dataset archives and extracted image folders
+ifood-2019-fgvc6/
+ifood-2019-fgvc6.zip
+iFood_2019-master/
+iFood_2019-master.zip
+
+# Model checkpoints
+*.pth
+
+# Local Cursor/project metadata
+.cursor/
+
+# Python/Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+
